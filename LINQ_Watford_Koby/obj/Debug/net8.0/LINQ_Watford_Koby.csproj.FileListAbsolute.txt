@@ -1,0 +1,14 @@
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\bin\Debug\net8.0\LINQ_Watford_Koby.exe
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\bin\Debug\net8.0\LINQ_Watford_Koby.deps.json
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\bin\Debug\net8.0\LINQ_Watford_Koby.runtimeconfig.json
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\bin\Debug\net8.0\LINQ_Watford_Koby.dll
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\bin\Debug\net8.0\LINQ_Watford_Koby.pdb
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\LINQ_Watford_Koby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\LINQ_Watford_Koby.AssemblyInfoInputs.cache
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\LINQ_Watford_Koby.AssemblyInfo.cs
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\LINQ_Watford_Koby.csproj.CoreCompileInputs.cache
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\LINQ_Watford_Koby.dll
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\refint\LINQ_Watford_Koby.dll
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\LINQ_Watford_Koby.pdb
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\LINQ_Watford_Koby.genruntimeconfig.cache
+C:\Users\KobyWatford\source\repos\LINQ_Watford_Koby\LINQ_Watford_Koby\obj\Debug\net8.0\ref\LINQ_Watford_Koby.dll
